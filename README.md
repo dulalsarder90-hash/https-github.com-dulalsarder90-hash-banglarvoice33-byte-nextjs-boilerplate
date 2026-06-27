@@ -1,7 +1,8 @@
+## Website
+https://www.banglarvoice24news.com
 
-# Welcome to Antigravity!
-
-Run the @fbs-to-agy-export.md workflow to bootstrap firebase into your project: [Learn more](https://firebase.google.com/docs/studio/migrating-project)
+## Contact
+info@banglarvoice24news.com
 Banglar Voice – An AI-Powered Bengali News, Media and Digital Journalism Platform
 # Banglar Voice
 
